@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Project = () => {
+const Portfolio = () => {
   return (
     <>
       <header>
@@ -22,4 +22,4 @@ const Project = () => {
   );
 };
 
-export default Project;
+export default Portfolio;
