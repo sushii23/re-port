@@ -13,11 +13,11 @@ const About = () => {
           <p>Short bio about the developer</p>
         </section>
       </main>
-      <footer>
+      {/* <footer>
         <a href="#">GitHub</a>
         <a href="#">LinkedIn</a>
         <a href="#">Stack Overflow</a>
-      </footer>
+      </footer> */}
     </>
   );
 };

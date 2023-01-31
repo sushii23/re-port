@@ -1,5 +1,5 @@
 import React from 'react';
-import Nav from './Nav';
+
 
 
 const Contact = () => {
@@ -7,7 +7,7 @@ const Contact = () => {
     <>
       <header>
         <h1>Developer's Name</h1>
-        <Nav />
+    
       </header>
       <main>
         <section>
@@ -19,11 +19,11 @@ const Contact = () => {
           </form>
         </section>
       </main>
-      <footer>
+      {/* <footer>
         <a href="#">GitHub</a>
         <a href="#">LinkedIn</a>
         <a href="#">Stack Overflow</a>
-      </footer>
+      </footer> */}
     </>
   );
 };
