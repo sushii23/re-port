@@ -3,9 +3,9 @@ import React from "react";
 const Footer = () => {
     return (
         <footer>
-            <a href="#">GitHub</a>
-            <a href="#">LinkedIn</a>
-            <a href="#">Stack Overflow</a>
+            <button>GitHub</button>
+            <button>LinkedIn</button>
+            <button>Stack Overflow</button>
         </footer>
     );
 };
