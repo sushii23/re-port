@@ -4,20 +4,20 @@ const Project = () => {
   return (
     <>
       <header>
-        <h1>Developer's Name</h1>
+        <h1>PROJECTS</h1>
         
       </header>
       <main>
         <section>
           <img src="avatar.jpg" alt="Avatar" />
-          <p>Short bio about the developer</p>
+          <p></p>
         </section>
       </main>
-      <footer>
+      {/* <footer>
         <a href="#">GitHub</a>
         <a href="#">LinkedIn</a>
         <a href="#">Stack Overflow</a>
-      </footer>
+      </footer> */}
     </>
   );
 };

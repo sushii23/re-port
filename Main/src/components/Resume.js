@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <>
       <header>
-        <h1>Developer's Name</h1>
+        <h1>Resume</h1>
         
       </header>
       <main>

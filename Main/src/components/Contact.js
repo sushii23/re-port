@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <>
       <header>
-        <h1>Adrian Williams</h1>
+        <h1>Contact Me</h1>
     
       </header>
       <main>
